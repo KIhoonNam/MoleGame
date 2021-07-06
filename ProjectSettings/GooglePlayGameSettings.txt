@@ -1,9 +1,0 @@
-lastUpgrade=01012
-proj.pluginVersion=0.10.12
-proj.AppId=124093192070
-and.BundleId=com.sixtydegree.TikTokTok
-proj.classDir=Assets
-proj.ConstantsClassName=GPGSIds
-and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--Google+Play+game+services+IDs.+Save+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--app_id--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e124093192070%3c%2fstring%3e%0d%0a++%3c%21--package_name--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.sixtydegree.TikTokTok%3c%2fstring%3e%0d%0a++%3c%21--achievement+ComBo+x100--%3e%0d%0a++%3cstring+name%3d%22achievement_combo_x100%22+translatable%3d%22false%22%3eCgkIhq-fpM4DEAIQAg%3c%2fstring%3e%0d%0a++%3c%21--achievement+ComBo+x1000--%3e%0d%0a++%3cstring+name%3d%22achievement_combo_x1000%22+translatable%3d%22false%22%3eCgkIhq-fpM4DEAIQAw%3c%2fstring%3e%0d%0a++%3c%21--achievement+ComBo+x+10000--%3e%0d%0a++%3cstring+name%3d%22achievement_combo_x_10000%22+translatable%3d%22false%22%3eCgkIhq-fpM4DEAIQBA%3c%2fstring%3e%0d%0a++%3c%21--leaderboard+MaxCombo--%3e%0d%0a++%3cstring+name%3d%22leaderboard_maxcombo%22+translatable%3d%22false%22%3eCgkIhq-fpM4DEAIQBQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e
-and.ClientId=124093192070-ftb3907o4at3jnni5pv6mr6kecqms6bv.apps.googleusercontent.com
-android.SetupDone=true
